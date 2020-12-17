@@ -50,4 +50,18 @@ p    {
     color:rgb(29, 32, 30);
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left:150px;
+    padding-right:150px;
+}
+
+.text-contact {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(203, 223, 203);
+    color:rgb(29, 32, 30);
+    padding:50px;
+    font-size:30px;
+}
+
+.col-md-5{
+    padding:40px;
 }
